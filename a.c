@@ -2,5 +2,5 @@
 int main()
 {
 	printf("afd");
-	return 1;
+	return 0;
 }
