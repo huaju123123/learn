@@ -3,5 +3,5 @@ int main()
 {
 
 	printf("afl");
-	return 0;
+	return 1;
 }
